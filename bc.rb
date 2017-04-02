@@ -1,9 +1,9 @@
 class Bc < Formula
   desc "arbitrary precision numeric processing language"
   homepage "https://www.gnu.org/software/bc/"
-  url "https://ftpmirror.gnu.org/bc/bc-1.06.tar.gz"
-  mirror "https://ftp.gnu.org/gnu/bc/bc-1.06.tar.gz"
-  sha256 "4ef6d9f17c3c0d92d8798e35666175ecd3d8efac4009d6457b5c99cea72c0e33"
+  url "https://ftpmirror.gnu.org/bc/bc-1.07.tar.gz"
+  mirror "https://ftp.gnu.org/gnu/bc/bc-1.07.tar.gz"
+  sha256 "55cf1fc33a728d7c3d386cc7b0cb556eb5bacf8e0cb5a3fcca7f109fc61205ad"
 
   bottle do
     cellar :any_skip_relocation
